@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Cameron 👋
 
-<!--
-**Convergence-Dawn/Convergence-Dawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 The Mission
+*   **Developing:** HarmonIZ, an iOS application blending intuitive interaction with 3D graphic visualization.
+*   **Building:** Convergent Dawn, exploring the frontier of virtual AI team operations.
 
-Here are some ideas to get you started:
+### 🛠️ The Toolkit
+*   **Environment & Languages:** Xcode, Swift.
+*   **Frameworks:** SwiftUI, SceneKit, HealthKit.
+*   **Design & Web:** Sintra AI, Three.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect
+*   **Location:** Australia.
+*   **Reach me at:** cjdharmoniz@gmail.com
