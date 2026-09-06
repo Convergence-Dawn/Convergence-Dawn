@@ -2,7 +2,7 @@
 
 ### 🚀 The Mission
 *   **Developing:** HarmonIZ, an iOS application blending intuitive interaction with 3D graphic visualization.
-*   **Building:** Convergance Dawn, exploring the frontier of virtual AI team operations.
+*   **Building:** Convergence Dawn, exploring the frontier of virtual AI team operations.
 
 ### 🛠️ The Toolkit
 *   **Environment & Languages:** Xcode, Swift.
